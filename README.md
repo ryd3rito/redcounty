@@ -1,2 +1,2 @@
-# redcounty
+# redcounty.project
 gamemode // redcounty state

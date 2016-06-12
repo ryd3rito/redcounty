@@ -1,0 +1,2 @@
+# redcounty
+gamemode // redcounty state
